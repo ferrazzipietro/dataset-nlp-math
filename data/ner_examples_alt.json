@@ -1,0 +1,32 @@
+[
+  {"id": 1, "text": "Lionel Messi signed with Inter Miami in Florida.", "entities": [
+    {"text": "Lionel Messi", "label": "PERSON"}, {"text": "Inter Miami", "label": "ORG"}, {"text": "Florida", "label": "LOC"}
+  ]},
+  {"id": 2, "text": "Janet Yellen met officials at the Federal Reserve in Washington.", "entities": [
+    {"text": "Janet Yellen", "label": "PERSON"}, {"text": "Federal Reserve", "label": "ORG"}, {"text": "Washington", "label": "LOC"}
+  ]},
+  {"id": 3, "text": "Serena Williams visited Wimbledon and spoke with BBC reporters.", "entities": [
+    {"text": "Serena Williams", "label": "PERSON"}, {"text": "Wimbledon", "label": "LOC"}, {"text": "BBC", "label": "ORG"}
+  ]},
+  {"id": 4, "text": "Toyota announced a new plant near Nagoya in Japan.", "entities": [
+    {"text": "Toyota", "label": "ORG"}, {"text": "Nagoya", "label": "LOC"}, {"text": "Japan", "label": "LOC"}
+  ]},
+  {"id": 5, "text": "Sundar Pichai met developers at Google offices in Zurich.", "entities": [
+    {"text": "Sundar Pichai", "label": "PERSON"}, {"text": "Google", "label": "ORG"}, {"text": "Zurich", "label": "LOC"}
+  ]},
+  {"id": 6, "text": "Cristiano Ronaldo trained with Al Nassr in Riyadh.", "entities": [
+    {"text": "Cristiano Ronaldo", "label": "PERSON"}, {"text": "Al Nassr", "label": "ORG"}, {"text": "Riyadh", "label": "LOC"}
+  ]},
+  {"id": 7, "text": "Nancy Pelosi attended a conference at Stanford in California.", "entities": [
+    {"text": "Nancy Pelosi", "label": "PERSON"}, {"text": "Stanford", "label": "ORG"}, {"text": "California", "label": "LOC"}
+  ]},
+  {"id": 8, "text": "Volkswagen opened a research center in Wolfsburg, Germany.", "entities": [
+    {"text": "Volkswagen", "label": "ORG"}, {"text": "Wolfsburg", "label": "LOC"}, {"text": "Germany", "label": "LOC"}
+  ]},
+  {"id": 9, "text": "Bill Gates gave a talk at MIT in Cambridge.", "entities": [
+    {"text": "Bill Gates", "label": "PERSON"}, {"text": "MIT", "label": "ORG"}, {"text": "Cambridge", "label": "LOC"}
+  ]},
+  {"id": 10, "text": "Greta Thunberg joined activists at the UN in New York.", "entities": [
+    {"text": "Greta Thunberg", "label": "PERSON"}, {"text": "UN", "label": "ORG"}, {"text": "New York", "label": "LOC"}
+  ]}
+]

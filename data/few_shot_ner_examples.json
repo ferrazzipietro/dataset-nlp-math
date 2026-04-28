@@ -1,0 +1,14 @@
+[
+  {
+    "input": "Barack Obama spoke at Stanford University in California.",
+    "output": {"PERSON": ["Barack Obama"], "ORG": ["Stanford University"], "LOC": ["California"]}
+  },
+  {
+    "input": "Angela Merkel met Emmanuel Macron in Paris.",
+    "output": {"PERSON": ["Angela Merkel", "Emmanuel Macron"], "LOC": ["Paris"], "ORG": []}
+  },
+  {
+    "input": "Apple Inc. announced a donation to UNICEF in New York.",
+    "output": {"ORG": ["Apple Inc.", "UNICEF"], "LOC": ["New York"], "PERSON": []}
+  }
+]

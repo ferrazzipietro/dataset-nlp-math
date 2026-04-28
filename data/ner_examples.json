@@ -1,0 +1,91 @@
+[
+  {
+    "id": 1,
+    "text": "Barack Obama visited Stanford University in California.",
+    "entities": [
+      {"text": "Barack Obama", "label": "PERSON"},
+      {"text": "Stanford University", "label": "ORG"},
+      {"text": "California", "label": "LOC"}
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Apple Inc. announced a partnership with UNICEF in New York.",
+    "entities": [
+      {"text": "Apple Inc.", "label": "ORG"},
+      {"text": "UNICEF", "label": "ORG"},
+      {"text": "New York", "label": "LOC"}
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Angela Merkel met Emmanuel Macron in Paris on Tuesday.",
+    "entities": [
+      {"text": "Angela Merkel", "label": "PERSON"},
+      {"text": "Emmanuel Macron", "label": "PERSON"},
+      {"text": "Paris", "label": "LOC"}
+    ]
+  },
+  {
+    "id": 4,
+    "text": "Google hired John Smith to lead research in London.",
+    "entities": [
+      {"text": "Google", "label": "ORG"},
+      {"text": "John Smith", "label": "PERSON"},
+      {"text": "London", "label": "LOC"}
+    ]
+  },
+  {
+    "id": 5,
+    "text": "The University of Padua hosted Prof. Maria Rossi from Milan.",
+    "entities": [
+      {"text": "University of Padua", "label": "ORG"},
+      {"text": "Maria Rossi", "label": "PERSON"},
+      {"text": "Milan", "label": "LOC"}
+    ]
+  },
+  {
+    "id": 6,
+    "text": "Amazon opened a new office near the Thames in the UK.",
+    "entities": [
+      {"text": "Amazon", "label": "ORG"},
+      {"text": "Thames", "label": "LOC"},
+      {"text": "UK", "label": "LOC"}
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Elon Musk spoke at the International Space Station event.",
+    "entities": [
+      {"text": "Elon Musk", "label": "PERSON"},
+      {"text": "International Space Station", "label": "ORG"}
+    ]
+  },
+  {
+    "id": 8,
+    "text": "Microsoft and OpenAI presented GPT-5 in San Francisco.",
+    "entities": [
+      {"text": "Microsoft", "label": "ORG"},
+      {"text": "OpenAI", "label": "ORG"},
+      {"text": "San Francisco", "label": "LOC"}
+    ]
+  },
+  {
+    "id": 9,
+    "text": "Pope Francis met students at the Vatican.",
+    "entities": [
+      {"text": "Pope Francis", "label": "PERSON"},
+      {"text": "Vatican", "label": "LOC"}
+    ]
+  },
+  {
+    "id": 10,
+    "text": "NVIDIA acquired Arm from SoftBank in Cambridge.",
+    "entities": [
+      {"text": "NVIDIA", "label": "ORG"},
+      {"text": "Arm", "label": "ORG"},
+      {"text": "SoftBank", "label": "ORG"},
+      {"text": "Cambridge", "label": "LOC"}
+    ]
+  }
+]
