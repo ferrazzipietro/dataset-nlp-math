@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "query": "When is a goal scored in football?",
+    "expected_answer": "When the whole ball crosses the goal line between the posts and under the crossbar."
+  },
+  {
+    "id": 2,
+    "query": "Can a player be offside directly from a throw-in?",
+    "expected_answer": "No, there is no offside offence directly from a throw-in."
+  },
+  {
+    "id": 3,
+    "query": "How many players are on a team including the goalkeeper?",
+    "expected_answer": "11 players including the goalkeeper."
+  },
+  {
+    "id": 4,
+    "query": "Is a goalkeeper allowed to handle a deliberate back-pass from a teammate?",
+    "expected_answer": "No, handling a deliberate kick or throw-in from a teammate is an offence (indirect free kick)."
+  },
+  {
+    "id": 5,
+    "query": "What is the minimum distance opponents must keep at a free kick?",
+    "expected_answer": "At least 10 yards (9.15 m) from the ball until it is in play."
+  }
+]

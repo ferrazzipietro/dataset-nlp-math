@@ -1,0 +1,7 @@
+[
+  {"id": 1, "query": "Where can you see Giotto’s frescoes in Padua?", "expected_answer": "Scrovegni Chapel"},
+  {"id": 2, "query": "What is the large oval square with an island called?", "expected_answer": "Prato della Valle"},
+  {"id": 3, "query": "Which basilica houses Saint Anthony’s tomb?", "expected_answer": "Basilica of Saint Anthony"},
+  {"id": 4, "query": "Where should I go to get a gelato?", "expected_answer": "Gelateria la Romana"},
+  {"id": 5, "query": "Where is the sculpture of Donatello located?", "expected_answer": "Basilica of Saint Anthony square"}
+]
