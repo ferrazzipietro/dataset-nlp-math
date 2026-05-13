@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "text": "Barack Obama visited Stanford University in California.",
+    "text": "Barack Obama visited Miami Beach in Florida.",
     "entities": [
       {"text": "Barack Obama", "label": "PERSON"},
-      {"text": "Stanford University", "label": "ORG"},
-      {"text": "California", "label": "LOC"}
+      {"text": "Miami Beach", "label": "LOC"},
+      {"text": "Florida", "label": "LOC"}
     ]
   },
   {
