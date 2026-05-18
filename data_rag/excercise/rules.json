@@ -1,0 +1,70 @@
+{
+  "Footsquare - Overview - 1": "Footsquare is a team sport played on a rounded pitch with raised baskets instead of goals. The game emphasizes continuous play, precise passing, and 360-degree spatial awareness.",
+  "Footsquare - Overview - 2": "Two teams compete to score by placing the ball into the opponent's basket. The team with the higher score at full time wins.",
+
+  "Footsquare - The Pitch - 1": "The pitch is circular with a clearly marked boundary line. The boundary line is part of the field of play.",
+  "Footsquare - The Pitch - 2": "A central circle with a radius of 6 m marks the kickoff area. A surrounding ring (the control ring) extends from 6 m to 12 m.",
+  "Footsquare - The Pitch - 3": "Four quadrant lines divide the pitch into equal arcs. These lines are used for restarts and zone-based rules.",
+  "Footsquare - The Pitch - 4": "The surface may be natural or artificial. Artificial surfaces must be non-reflective and uniform in color.",
+
+  "Footsquare - Baskets - 1": "Each team defends a raised basket positioned at opposite ends of a diameter line. Baskets are circular and mounted 2.5 m above the ground.",
+  "Footsquare - Baskets - 2": "The basket has a rim diameter of 0.9 m with a shallow net. A score counts only when the ball fully passes through the rim from above.",
+  "Footsquare - Baskets - 3": "A 5 m scoring arc is marked around each basket. Shots taken from outside the arc are worth 2 points; inside the arc are worth 1 point.",
+
+  "Footsquare - The Ball - 1": "The ball is size 5 with a textured surface for grip. Only one ball is used unless the referee authorizes a replacement.",
+  "Footsquare - The Ball - 2": "If the ball becomes defective, play is stopped and restarted with a dropped ball at the nearest quadrant line.",
+
+  "Footsquare - Players - 1": "Each team has 7 players on the field, including one keeper. A match cannot start or continue with fewer than 5 players.",
+  "Footsquare - Players - 2": "Substitutions are rolling. A team may substitute at any stoppage and after a goal is scored.",
+  "Footsquare - Players - 3": "The keeper may handle the ball only within the keeper zone, a 4 m radius circle beneath the basket.",
+
+  "Footsquare - Equipment - 1": "Basic equipment: shirt, shorts, socks, footwear, and shinguards. Jewelry is not permitted.",
+  "Footsquare - Equipment - 2": "Teams must wear colors that distinguish them from opponents and match officials.",
+
+  "Footsquare - Match Duration - 1": "The match consists of three 12-minute periods with 3 minutes of rest between periods.",
+  "Footsquare - Match Duration - 2": "Time is stopped for injuries, disciplinary sanctions, and video reviews.",
+
+  "Footsquare - Start and Restarts - 1": "The match begins with a center kick from the central circle. Opponents must remain outside the control ring.",
+  "Footsquare - Start and Restarts - 2": "After a score, the team that conceded restarts with a center kick.",
+  "Footsquare - Start and Restarts - 3": "If the ball crosses the boundary line, play restarts with a throw-in from the nearest quadrant line.",
+  "Footsquare - Start and Restarts - 4": "A dropped ball is used for neutral stoppages and is taken at the nearest quadrant line.",
+
+  "Footsquare - Scoring - 1": "A score is valid when the ball fully passes through the basket rim from above without illegal contact.",
+  "Footsquare - Scoring - 2": "Goals from outside the 5 m scoring arc are worth 2 points; inside the arc are worth 1 point.",
+  "Footsquare - Scoring - 3": "If a defending player touches the basket or rim during a shot, an automatic 2-point score is awarded.",
+
+  "Footsquare - Movement and Contact - 1": "Physical contact is limited. Shoulder-to-shoulder contact is allowed if both players are playing the ball.",
+  "Footsquare - Movement and Contact - 2": "Sliding tackles are not permitted. Any slide toward an opponent is a foul.",
+
+  "Footsquare - Fouls - 1": "A foul results in a free shot from the nearest quadrant line.",
+  "Footsquare - Fouls - 2": "Handball: deliberate handling by a non-keeper is a foul. Accidental handball may be penalized if it creates an advantage.",
+  "Footsquare - Fouls - 3": "Persistent infringement results in a yellow card.",
+
+  "Footsquare - Cards and Sanctions - 1": "Yellow card: formal warning. Two yellow cards in the same match result in a red card.",
+  "Footsquare - Cards and Sanctions - 2": "Red card: the player must leave the field and their team plays short for 5 minutes (game clock).",
+  "Footsquare - Cards and Sanctions - 3": "After the 5-minute penalty, the team may replace the sent-off player.",
+
+  "Footsquare - Advantage - 1": "The referee may apply advantage if stopping play would benefit the offending team.",
+
+  "Footsquare - Keeper Zone - 1": "Only the keeper may enter the keeper zone with the ball. Field players may enter without the ball but cannot obstruct the keeper.",
+  "Footsquare - Keeper Zone - 2": "If a keeper holds the ball for more than 6 seconds, a free shot is awarded to the opponents.",
+
+  "Footsquare - Offside Equivalent - 1": "Footsquare uses a zone rule instead of offside. Attacking players may not receive the ball inside the opponent's keeper zone.",
+  "Footsquare - Offside Equivalent - 2": "Receiving the ball inside the keeper zone results in a turnover at the nearest quadrant line.",
+
+  "Footsquare - Referee - 1": "The referee enforces the rules, manages time, and may use video review for scoring decisions.",
+  "Footsquare - Referee - 2": "The referee's decisions are final, except for the use of video review on scoring plays.",
+
+  "Footsquare - Video Review - 1": "Video review may be used to confirm scores and basket interference.",
+  "Footsquare - Video Review - 2": "A review must be initiated within 30 seconds of the event.",
+
+  "Footsquare - Tie Break - 1": "If the score is tied after three periods, a 5-minute golden-point period is played.",
+  "Footsquare - Tie Break - 2": "The first team to score in golden-point wins the match.",
+
+  "Footsquare - Conduct - 1": "Dissent, abusive language, and unsporting conduct are sanctionable offences.",
+  "Footsquare - Conduct - 2": "Deliberate time-wasting results in a free shot and a yellow card.",
+
+  "Footsquare - Restarts Summary - 1": "Throw-in: taken from the nearest quadrant line when the ball leaves the field.",
+  "Footsquare - Restarts Summary - 2": "Free shot: awarded for fouls, taken from the nearest quadrant line.",
+  "Footsquare - Restarts Summary - 3": "Center kick: starts each period and follows every score."
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "Q1",
+    "question": "Which statement correctly describes the Footsquare pitch boundary?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The pitch is oval and the boundary line is not part of the field of play"
+      },
+      {
+        "id": "B",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "C",
+        "text": "The pitch is square and the boundary line is neutral"
+      },
+      {
+        "id": "D",
+        "text": "The pitch is rectangular and the boundary line is outside the field of play"
+      },
+      {
+        "id": "E",
+        "text": "The pitch is circular and the boundary line is part of the field of play"
+      }
+    ]
+  },
+  {
+    "id": "Q2",
+    "question": "What is the radius of the central circle used for kickoff?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 m"
+      },
+      {
+        "id": "B",
+        "text": "8 m"
+      },
+      {
+        "id": "C",
+        "text": "5 m"
+      },
+      {
+        "id": "D",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "E",
+        "text": "12 m"
+      }
+    ]
+  },
+  {
+    "id": "Q3",
+    "question": "Which statement about the control ring is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It extends from 6 m to 12 m around the center"
+      },
+      {
+        "id": "B",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "C",
+        "text": "It is a square area around the center"
+      },
+      {
+        "id": "D",
+        "text": "It extends from 12 m to 18 m around the center"
+      },
+      {
+        "id": "E",
+        "text": "It extends from 0 m to 6 m around the center"
+      }
+    ]
+  },
+  {
+    "id": "Q4",
+    "question": "What do the four quadrant lines primarily determine?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Team benches and technical areas"
+      },
+      {
+        "id": "B",
+        "text": "Penalty kick positions"
+      },
+      {
+        "id": "C",
+        "text": "Offside lines"
+      },
+      {
+        "id": "D",
+        "text": "Restarts and zone-based rules"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  },
+  {
+    "id": "Q5",
+    "question": "Where are the baskets positioned?",
+    "options": [
+      {
+        "id": "A",
+        "text": "At adjacent corners"
+      },
+      {
+        "id": "B",
+        "text": "At opposite ends of a diameter line"
+      },
+      {
+        "id": "C",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "D",
+        "text": "Inside each control ring"
+      },
+      {
+        "id": "E",
+        "text": "Along the center line"
+      }
+    ]
+  },
+  {
+    "id": "Q6",
+    "question": "What is the basket height above the ground?",
+    "options": [
+      {
+        "id": "A",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "B",
+        "text": "1.5 m"
+      },
+      {
+        "id": "C",
+        "text": "2.5 m"
+      },
+      {
+        "id": "D",
+        "text": "2.0 m"
+      },
+      {
+        "id": "E",
+        "text": "3.0 m"
+      }
+    ]
+  },
+  {
+    "id": "Q7",
+    "question": "Which condition is required for a score to count?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The ball touches the rim from any direction"
+      },
+      {
+        "id": "B",
+        "text": "The keeper touches the ball"
+      },
+      {
+        "id": "C",
+        "text": "The ball fully passes through the rim from above"
+      },
+      {
+        "id": "D",
+        "text": "The ball hits the backboard"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  },
+  {
+    "id": "Q8",
+    "question": "How many points is a shot worth from outside the 5 m scoring arc?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 points"
+      },
+      {
+        "id": "B",
+        "text": "1 point"
+      },
+      {
+        "id": "C",
+        "text": "0 points"
+      },
+      {
+        "id": "D",
+        "text": "3 points"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  },
+  {
+    "id": "Q9",
+    "question": "What is the radius of the keeper zone beneath each basket?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 m"
+      },
+      {
+        "id": "B",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "C",
+        "text": "3 m"
+      },
+      {
+        "id": "D",
+        "text": "5 m"
+      },
+      {
+        "id": "E",
+        "text": "6 m"
+      }
+    ]
+  },
+  {
+    "id": "Q10",
+    "question": "Who may handle the ball inside the keeper zone?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Any defending player"
+      },
+      {
+        "id": "B",
+        "text": "Only the keeper"
+      },
+      {
+        "id": "C",
+        "text": "Only the captain"
+      },
+      {
+        "id": "D",
+        "text": "Any player"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  },
+  {
+    "id": "Q11",
+    "question": "What is the minimum number of players required for a team to continue the match?",
+    "options": [
+      {
+        "id": "A",
+        "text": "6 players"
+      },
+      {
+        "id": "B",
+        "text": "5 players"
+      },
+      {
+        "id": "C",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "D",
+        "text": "4 players"
+      },
+      {
+        "id": "E",
+        "text": "7 players"
+      }
+    ]
+  },
+  {
+    "id": "Q12",
+    "question": "How many players are on the field for each team in Footsquare?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7 players, including one keeper"
+      },
+      {
+        "id": "B",
+        "text": "6 players, including one keeper"
+      },
+      {
+        "id": "C",
+        "text": "5 players, including one keeper"
+      },
+      {
+        "id": "D",
+        "text": "11 players, including one keeper"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  },
+  {
+    "id": "Q13",
+    "question": "When are substitutions permitted?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Only at halftime"
+      },
+      {
+        "id": "B",
+        "text": "At any stoppage and after a score"
+      },
+      {
+        "id": "C",
+        "text": "Only after a score"
+      },
+      {
+        "id": "D",
+        "text": "Only after a yellow card"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  },
+  {
+    "id": "Q14",
+    "question": "What happens if the ball becomes defective?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Play stops and restarts with a free shot at center"
+      },
+      {
+        "id": "B",
+        "text": "Play stops and restarts with a dropped ball at the nearest quadrant line"
+      },
+      {
+        "id": "C",
+        "text": "Play stops and restarts with a center kick"
+      },
+      {
+        "id": "D",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "E",
+        "text": "Play continues until a score"
+      }
+    ]
+  },
+  {
+    "id": "Q15",
+    "question": "How long is each period in a Footsquare match?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20 minutes"
+      },
+      {
+        "id": "B",
+        "text": "10 minutes"
+      },
+      {
+        "id": "C",
+        "text": "15 minutes"
+      },
+      {
+        "id": "D",
+        "text": "12 minutes"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  },
+  {
+    "id": "Q16",
+    "question": "What is the rest time between periods?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 minutes"
+      },
+      {
+        "id": "B",
+        "text": "1 minute"
+      },
+      {
+        "id": "C",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "D",
+        "text": "3 minutes"
+      },
+      {
+        "id": "E",
+        "text": "2 minutes"
+      }
+    ]
+  },
+  {
+    "id": "Q17",
+    "question": "At kickoff, where must opponents stand?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Outside the control ring"
+      },
+      {
+        "id": "B",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "C",
+        "text": "Inside the keeper zone"
+      },
+      {
+        "id": "D",
+        "text": "On the nearest quadrant line"
+      },
+      {
+        "id": "E",
+        "text": "Inside the central circle"
+      }
+    ]
+  },
+  {
+    "id": "Q18",
+    "question": "If the ball crosses the boundary line, how does play restart?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Throw-in from the nearest quadrant line"
+      },
+      {
+        "id": "B",
+        "text": "Center kick by the defending team"
+      },
+      {
+        "id": "C",
+        "text": "Dropped ball at center"
+      },
+      {
+        "id": "D",
+        "text": "Free shot from center"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  },
+  {
+    "id": "Q19",
+    "question": "Which action is explicitly a foul?",
+    "options": [
+      {
+        "id": "A",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "B",
+        "text": "A quick substitution after a score"
+      },
+      {
+        "id": "C",
+        "text": "Shoulder-to-shoulder contact while playing the ball"
+      },
+      {
+        "id": "D",
+        "text": "Entering the keeper zone without the ball"
+      },
+      {
+        "id": "E",
+        "text": "A sliding tackle toward an opponent"
+      }
+    ]
+  },
+  {
+    "id": "Q20",
+    "question": "What is the restart for a foul?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A center kick"
+      },
+      {
+        "id": "B",
+        "text": "A dropped ball at center"
+      },
+      {
+        "id": "C",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "D",
+        "text": "A free shot from the nearest quadrant line"
+      },
+      {
+        "id": "E",
+        "text": "A throw-in from the nearest quadrant line"
+      }
+    ]
+  },
+  {
+    "id": "Q21",
+    "question": "What is the sanction for a red card?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Player leaves and team plays short for the rest of the match"
+      },
+      {
+        "id": "B",
+        "text": "Player leaves and team plays short for 5 minutes"
+      },
+      {
+        "id": "C",
+        "text": "Player leaves and may be replaced immediately"
+      },
+      {
+        "id": "D",
+        "text": "Player is cautioned and returns after 2 minutes"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  },
+  {
+    "id": "Q22",
+    "question": "When may a team replace a player who received a red card?",
+    "options": [
+      {
+        "id": "A",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "B",
+        "text": "Immediately after the red card"
+      },
+      {
+        "id": "C",
+        "text": "After the next score"
+      },
+      {
+        "id": "D",
+        "text": "Only at the next period break"
+      },
+      {
+        "id": "E",
+        "text": "After the 5-minute penalty is served"
+      }
+    ]
+  },
+  {
+    "id": "Q23",
+    "question": "What happens if an attacker receives the ball inside the opponent's keeper zone?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Free shot for the attacking team"
+      },
+      {
+        "id": "B",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "C",
+        "text": "Automatic one-point score"
+      },
+      {
+        "id": "D",
+        "text": "Turnover at the nearest quadrant line"
+      },
+      {
+        "id": "E",
+        "text": "Play continues unless the keeper protests"
+      }
+    ]
+  },
+  {
+    "id": "Q24",
+    "question": "Which statement about video review is correct?",
+    "options": [
+      {
+        "id": "A",
+        "text": "It replaces the referee's authority on all decisions"
+      },
+      {
+        "id": "B",
+        "text": "It can only be initiated at halftime"
+      },
+      {
+        "id": "C",
+        "text": "There is not enough information"
+      },
+      {
+        "id": "D",
+        "text": "It may be used to confirm scores and basket interference"
+      },
+      {
+        "id": "E",
+        "text": "It may be used for any foul anywhere"
+      }
+    ]
+  },
+  {
+    "id": "Q25",
+    "question": "If the score is tied after three periods, what decides the match?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A replay of the full match"
+      },
+      {
+        "id": "B",
+        "text": "A 5-minute golden-point period"
+      },
+      {
+        "id": "C",
+        "text": "A penalty shootout"
+      },
+      {
+        "id": "D",
+        "text": "A coin toss"
+      },
+      {
+        "id": "E",
+        "text": "There is not enough information"
+      }
+    ]
+  }
+]
